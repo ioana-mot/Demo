@@ -1,3 +1,3 @@
 modified commit
 
-modified 2nd commit
+2nd commit
