@@ -2,4 +2,7 @@ modified commit
 
 2nd commit
 
-3rd commit
+new commit on master branch
+
+another change
+
